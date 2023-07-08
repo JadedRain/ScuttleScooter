@@ -17,7 +17,7 @@ class TyCommands(commands.Cog):
     @commands.Cog.listener()
     async def on_message(self, ctx):
         if self.question_asked:
-            pass
+            await ctx.send("Cheese balls")
 
     @commands.command(name="q")
     async def random_question(self, ctx):

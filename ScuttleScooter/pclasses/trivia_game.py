@@ -4,7 +4,7 @@ class TriviaGame:
     
     correct_answer = ""
     trivia_file_data = None
-    lives = 3
+    player_lives = 3
 
     def __init__(self):
         self.trivia_file_data = pd.read_csv("./trivia_sheet.csv")
@@ -18,8 +18,8 @@ class TriviaGame:
         return answer.lower() == self.correct_answer
 
     def remove_life(self):
-        self.lives-=1
+        self.player_lives-=1
 
     def reset_life(self):
-        self.lives = 3
+        self.player_lives = 3
 

@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="pclasses\guild_info.py" />
     <Compile Include="pclasses\trivia_game.py" />
     <Compile Include="commands\bens_ideas.py">
       <SubType>Code</SubType>

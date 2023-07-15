@@ -1,0 +1,71 @@
+Roll Name,Ingredient list,Topped With,Price,Vegitarian,Spice Level
+New Rocky Mountain,"shrimp tempura, spicy crab, avocado, cucumber","deep fried scallops, furikake, spicy mayo, eel sauce",17.95,FALSE,0
+Crazy Mango,"shrimp tempura, avacado, cucumber","mango, mago sauce",14.95,FALSE,0
+Veggie Monster,"tempura sweet potato, tempura carrot, spinach, asparagus, avocado",sweet & spicy sauce,12.9,TRUE,0
+Sunkist,"red bell pepper, mango, asparagus, avocado, cucumber","pineapple, wasabi mayo",13,TRUE,0
+Andy,"shrimp tempura, crab, avocado, cucumber","torched tuna, eel sauce",16.5,FALSE,0
+April,"spicy crab, salmon, cream cheese","avocaod, sweet sauce",15.5,FALSE,0
+Black Tiger,"shrimp tempura, crab, cucumber, avocado","spicy tunaa, eel sauce",14.95,FALSE,1
+Cancun,"tuna, cilantro,cream cheese, avocado, jalapeno, eel sauce, hot sauce","eel sauce, hot sauce",12.5,FALSE,2
+Candy,"tempura shrimp, spicy crab","avocado, sweet sauce",15,FALSE,0
+Cosmopolitan,"shrimp tempura, lemon slices, cucumber","spicy tuna, avocado, wasabi mayo, eel sauce",15.95,FALSE,1
+Fashion,"fried sweet potato, fried asparagus, lettuce, kalware, gobo, kanpyo, avocado, daikon, cream cheese",ginger sauce,12.5,TRUE,0
+Godzilla,"spicy tuna, crab, avocado","seaweed salad, masago, eele sauce, sweet light soy, spicy oil",17.95,FALSE,1
+Golden Treasure,"salmon, spicy crab, avocado","salmon, crunch, furikake, scallions, sweet & spicy mayo sauce",18.95,FALSE,1
+Grand Canyon,"crab, avocado, cucumber","stir fried shrimp, scallops, muchroom, masago, scallions, creamy sauce",15.5,FALSE,0
+Hot Stuff,"spicy yellowtail, cucumber, cilantro","yellowtail, hot pepper, spicy sauce, eel sauce",16.95,FALSE,2
+Hot Summer,"spicy crab, shrimp tempura, jalapeno, cilantro, cucumber","tuna, avocado, crunch, spicy mayo, eel sauce",16.95,FALSE,2
+JJ Special,"crab, avocado, cucumber","salmon, sweet sauce",15.5,FALSE,0
+Lobster,"crab, avocado, cucumber","lobster meat, cheese, masago, scallions, eel sauce",16,FALSE,0
+Mafia,"spicy crab, soft shell crab, cucumber","assorted fish, tobiko, eel sauce",15.5,FALSE,0
+Malibu,"fresh tuna, avocado, kaiware, jalapeno, cilantro",sweet citrus sauce,13.95,FALSE,2
+Margarita,"spicy tuna, yellowtail, crab, cilantro","avocado, lime, crunch, hot sauce",15,FALSE,1
+Mars,"shrimp tempura, crab, avocado, cucumber","fresh tuna, spicy mayo, eel sauce",15,FALSE,0
+Miss Saigon,"crab, salmon, spicy tuna, shrimp tempura, jalapeno, avocado, cilantro",sweet citrus sauce,15.95,FALSE,2
+NNY,"real crab, shrimp tempura, avocado, cucumber","spicy tuna, seared tuna, wasabi tobiko, eel sauce",16.5,FALSE,1
+Naruto,"tuna, yellowtail, smoked salmon, crab, avocado",soy sauce,15.95,FALSE,0
+Osaka,"real crab, avocado, cucumber","shrimp, avocado, spicy mayo",15.95,FALSE,0
+Picante,"spicy tuna, cucumber, cilantro",sweet & hot sauce,13.5,FALSE,2
+Popeye,"spinach, real crab, salmon, avocado","sweet chili sauce, creamy wasabi mayo",17.25,FALSE,0
+Rattlesnake,"shrimp tempura, crab, avocado, cucumber","grilled freshwater eel, eel sauce",18.95,FALSE,0
+Red Rock,"spicy crab, tempura salmon","avocado, sweet sauce",14.5,FALSE,0
+Rock & Roll,"smoked salmon, eel, shrimp, avocado, gobo, cream cheese",eel sauce,14.95,FALSE,0
+Salmon Lover,"salmon, cream cheese, avocado",salmon,16.95,FALSE,0
+Scorpion,"shrimp tempura, jalapeno, cream cheese, cucumber","crab, wasabi toobiko, wasabi mayo, spicy mayo",17.95,FALSE,2
+Silver Lake,"salmon, avocado, cucumber","wasabi mayo, eel sauce",12.95,FALSE,0
+Snow,"eel, avocado","crunch, eel sauce, spicy mayo, masago, scallions",18.5,FALSE,0
+Spanish,"spicy crab, shrimp tempura, jalapeno","albacore, tataki sauce",16,FALSE,2
+Starburst,"peach, mango, strawberry, cucumber, cream cheese",ginger sauce,12.5,TRUE,0
+Sunny,"crab, avocado, mango, cream cheese",ginger sauce,12,FALSE,0
+Sunset,"spicy scallops, crab, cucumber","eel, avocado, eel sauce",15.5,FALSE,0
+Suset BLVD,"soft shell crab, spicy crab, cream cheese, cucumber","avocado, crunch, spicy mayo, eel sauce",16.95,FALSE,0
+Sunshine,"crab, avocado, cucumber","salmon, lemon slices, masago",15,FALSE,0
+TNT,"spicy crab, shrimp tempura, jalapeno, cilantro, cucumber","spicy tuna, avocado, sweet & spicy sauce",16.5,FALSE,2
+Tropical Dream,"coconut shrimp, mango, cream cheese","pineapple, wasabi mayo",16,FALSE,0
+Ultra Tuna,"spicy tuna, cucumber",fresh tuna,12.5,FALSE,0
+Vegtarian,"avocado, cucmber, gobo, kanpyo, daikon, asparagus",none,9,TRUE,1
+White Tiger,"shrimp tempura, eel, cream cheese, cucumber","torched red snapper, garlic, black & red tobiko, sweet sauce",16.95,FALSE,0
+911,"spicy tuna, cucumber","avocado, sweet & spicy sauce",12.5,FALSE,2
+California,"crab, cucumber, avocado",none,6.95,FALSE,0
+Philadelphia,"smoked salmon, cream cheese, avocado",none,9.95,FALSE,0
+Spicy Maki,"tuna, salmon, yellowtail, crab",none,7.5,FALSE,1
+Eel,"eel, avocado, cucumber",eel sauce,10,FALSE,0
+Dragon,"crab, cucumber, avocado","eel, eel sauce",17.95,FALSE,0
+Caterpillar,"eel, cucumber, avocado","avocado, eel sauce",15.5,FALSE,0
+Rainbow,"crab, avocado, cucumber",assorted fish,13.95,FALSE,0
+Alaska,"crab, cucumber, avocado",salmon,12.95,FALSE,0
+Calamari Tempura,"calamari, crab, avocado, cucumber","masago, eel sauce",10.75,FALSE,0
+Shrimp Tempura,"shrimp tempura, crab, avocado, cucumber",eel sauce,9.95,FALSE,0
+Salmon Skin,salmon skin,None,8.25,FALSE,0
+Spider,"fried soft shell crab, crab, avocado, cucumber, gobo",eel sauce,13.95,FALSE,0
+Teriyaki,"beef, chicken, avocado, cucumber",sweet sauce,9.95,FALSE,0
+Avacado,avocado,none,6,TRUE,0
+Cucumber,cucumber,none,5,TRUE,0
+Sweet Potato,sweet potato,none,5.5,TRUE,0
+Vegas,"spicy tuna, cucumber","spicy mayo, eel sauce",9.95,FALSE,1
+Mexican Crunch,"spicy crab, cream cheese",sweet sauce,11.95,FALSE,0
+Tempura,"salmon, crab, avocado, cream cheese",sweet sauce,11.95,FALSE,0
+New Vegas,"spicy tuna, crab, cucumber, lemon slices",citrus sauce,11.5,FALSE,1
+X-Man,"albacore, crab, chili pepper","spicy mayo, creamy sauce",14.5,FALSE,1
+Golden California,"crab, avocado, cucumber",eel sauce,9.95,FALSE,0
+Tornado,"lobster meat, shrimp tempura, spicy crab",sweet & spicy sauce,19.5,FALSE,0

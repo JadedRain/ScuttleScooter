@@ -23,6 +23,10 @@
   <ItemGroup>
     <Compile Include="commands\joel_ideas.py" />
     <Compile Include="pclasses\guild_info.py" />
+    <Compile Include="pclasses\menu_view.py" />
+    <Compile Include="pclasses\sushi_info.py" />
+    <Compile Include="pclasses\sushi_picker.py" />
+    <Compile Include="pclasses\sushi_roll.py" />
     <Compile Include="pclasses\trivia_game.py" />
     <Compile Include="commands\bens_ideas.py">
       <SubType>Code</SubType>
@@ -44,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".env" />
+    <Content Include="sushi_list.csv" />
     <Content Include="trivia_sheet.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

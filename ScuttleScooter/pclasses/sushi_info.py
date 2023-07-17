@@ -28,7 +28,7 @@ class SushiInfo():
                 embed.set_footer(text=f"Page {math.ceil(i/10)}")
                 menu_pages.append(embed)
                 embed =  discord.Embed(title="Sushi Menu", description="A list of sushi with their ingredients", color=0xffb19a)
-            embed.add_field(name=f"{self.roll_container[roll].name} ${self.roll_container[roll].price}", value=self.roll_container[roll].ingredients, inline=False)
+            embed.add_field(name=f"{self.roll_container[roll].name} ${self.roll_container[roll].price}", value=f"{', '.join(self.roll_container[roll].ingredients)} topped w/ {', '.join(self.roll_container[roll].toppings)}", inline=False)
 
         embed.set_footer(text=f"Page {math.ceil(i/10)}")
         menu_pages.append(embed)

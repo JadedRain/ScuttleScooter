@@ -18,14 +18,7 @@ class SushiInfo():
 
     def load_data_to_dict(self):
         for i, roll in enumerate(self.sushi_file_data.iloc):
-            self.roll_container[roll[0]] = SushiRoll(*roll)
-
-    def show_roll(self, name):
-        try:
-            return self.roll_container[name].ingredients
-        
-        except:
-            return "Please enter a valid sushi roll"
+            self.roll_container[roll[0]] = SushiRoll(*roll)   
 
     def create_menu(self):
         menu_pages = []

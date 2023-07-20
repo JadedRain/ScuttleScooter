@@ -24,6 +24,7 @@
     <Compile Include="commands\joel_ideas.py" />
     <Compile Include="pclasses\guild_info.py" />
     <Compile Include="pclasses\menu_view.py" />
+    <Compile Include="pclasses\sushi_cart.py" />
     <Compile Include="pclasses\sushi_info.py" />
     <Compile Include="pclasses\sushi_picker.py" />
     <Compile Include="pclasses\sushi_roll.py" />
